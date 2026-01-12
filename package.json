@@ -24,7 +24,7 @@
   },
   "packageManager": "pnpm@7.15.0",
   "dependencies": {
-    "@changesets/cli": "^2.26.2"
+    "@changesets/cli": "^2.29.6"
   },
   "pnpm": {
     "overrides": {
