@@ -3,7 +3,7 @@
   "version": "0.0.17",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.5.9",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "openai": "4.0.0-beta.8",
     "pdf-parse": "^1.1.1",
     "replicate": "^0.14.1",
